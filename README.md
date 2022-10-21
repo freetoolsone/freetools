@@ -3,7 +3,8 @@ Free Tools One is an all-in-one website made for Developers at your fingertips. 
 
 <div class="card mb-3">
 <div class="d-block card-header category-box text-start bg-indigo text-white">
-<h2 class="card-title">YouTube Tools</h2>
+[<h2 class="card-title">YouTube Tools</h2>](https://www.freetools.one)
+
 The powerful YouTube tools you need to grow your YouTube audience.</div>
 <div class="card-body pb-0">
 <div class="row">
