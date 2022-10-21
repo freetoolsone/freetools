@@ -1,4 +1,4 @@
-# Freetoolsone
+# Free Tools One
 Free Tools One is an all-in-one website made for Developers at your fingertips. Free Text Content Tools, Images Editing Tools, Online Calculators, Unit Converter Tools, Binary Converter Tools, Website Management Tools, Development Tools, and other useful tools that will help you in your daily online activities.
 
 [Check All Tools Here](https://www.freetools.one/)
@@ -1434,7 +1434,7 @@ Other useful tools that will help you in your daily online activities.</div>
 </div>
 
 
-## Freetoolsone
+## Free Tools One
 Free Tools One is an all-in-one website made for Developers at your fingertips. Free Text Content Tools, Images Editing Tools, Online Calculators, Unit Converter Tools, Binary Converter Tools, Website Management Tools, Development Tools, and other useful tools that will help you in your daily online activities.
 
 [Check All Tools Here](https://www.freetools.one/)
